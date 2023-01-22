@@ -25,7 +25,7 @@
 
 <h2 align="center">Github stats</h2>
 
-[![Codingpieces's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingpieces&show_icons=true&theme=monokai)](https://github.com/Codingpieces)
+[![Codingpieces's GitHub stats](https://github-readme-stats.vercel.app/api?username=OneSunPiece&show_icons=true&theme=monokai)](https://github.com/OneSunPiece)
 [![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codingpieces&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 <small><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</small>
